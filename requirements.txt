@@ -1,0 +1,6 @@
+telebot==<latest_version>
+transformers==<latest_version>
+gradio==<latest_version>
+huggingface==<latest_version>
+numpy==<latest_version>
+scikit-learn==<latest_version>
